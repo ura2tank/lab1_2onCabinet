@@ -1,7 +1,8 @@
 {
-    "title": "ROT13 шифрование",
-    "name_alfabet": "шифруемые символы",
-    "lowercase": "Строчные буквы: a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z",
-    "uppercase": "Заглавные буквы: A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z"
-    
+    "elements": {
+        "title": "ROT13 шифрование",
+        "name_alfabet": "шифруемые символы",
+        "lowercase": "a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z",
+        "uppercase": "A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z"
+    }
 } 
